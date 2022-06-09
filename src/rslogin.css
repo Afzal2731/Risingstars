@@ -1,0 +1,264 @@
+.Login-Page---Rising-Star-1 {
+    width: 1000px;
+    height: 1000px;
+    flex-grow: 0;
+    padding: 0 0 109px;
+    background-color: #fff;
+  }
+  .Rectangle-1 {
+    width: 1265px;
+    height: 440px;
+    margin: 0 0 64px;
+    padding: 32px 64px 35px 70px;
+    border-radius:  0 0 32% 32%;
+    -webkit-filter: blur(px);
+    filter: blur(px);
+    background-image: linear-gradient(to right, #ffa300 0%, #ff7e00 100%);
+  }
+  .Rising-Stars {
+    width: 289px;
+    height: 35px;
+    margin: -49px 179px 358px 66px;
+    font-family: outfit;
+    font-size: 25px;
+    font-weight: 700;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .im{
+    float:right;
+    height: 350px;
+    margin: -400px 0 0 0;
+
+  }
+  .Hey-welcome-Create-account-for-your-Star {
+    width: 445px;
+    height: 150px;
+    margin: 44px 183px 100px 97px;
+    font-family: outfit;
+    font-size: 35px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000;
+  }
+  
+  .Hey-welcome-Create-account-for-your-Star .text-style-1 {
+    font-weight: bold;
+  }
+  .create-welcome{
+    margin:0 0 0 95px;
+  }
+  .text-field {
+    position: relative;
+    margin: 40px 10px 10px 100px;
+    
+  }
+  
+  .text-field input {
+    display: inline-block;
+    color:black;
+    width: 650px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: medium;
+    border: 1px solid #cdcdcd;
+    background-color: #fff;
+    padding: 10px 20px 10px;
+  }
+ 
+  
+  .text-field input:focus, .text-field input:active {
+    border: 1px solid #ffa300;
+    background-color:#fff;
+  }
+ 
+  
+  .text-field label {
+    color: #999;
+    position: absolute;
+    pointer-events: none;
+    left: 25px;
+    top: 14px;
+    transition: 0.2s;
+    font-family: outfit, sans-serif;
+    
+  }
+  
+  .text-field input:focus ~ label, input:valid ~ label {
+    top: -7px;
+    left: 15px;
+    font-size: medium;
+    color: rgba(0, 0, 0, 0.5);
+    background-color:#fff;
+    padding:0 5px 0 5px;
+    
+  }
+  .text-field1 {
+    position: relative;
+    margin: 40px 10px 10px 100px;
+    
+  }
+  
+  .text-field1 input {
+    display: inline-block;
+    color:black;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: small;
+    border: 1px solid #cdcdcd;
+    background-color: #fff;
+    padding: 10px 20px 10px;
+  }
+ 
+  
+  .text-field1 input:focus, .text-field1 input:active {
+    border: 1px solid #ffa300;
+    background-color:#fff;
+  }
+ 
+  
+  .text-field1 label {
+    color: #999;
+    position: absolute;
+    pointer-events: none;
+    left: 25px;
+    top: 14px;
+    transition: 0.2s;
+    font-family: outfit, sans-serif;
+    
+  }
+  
+  .text-field1 input:focus ~ label, input:valid ~ label {
+    top: -7px;
+    left: 15px;
+    font-size: medium;
+    color: rgba(0, 0, 0, 0.5);
+    background-color:#fff;
+    padding:0 5px 0 5px;
+    
+  }
+  .code{
+      margin: -90px 50px 20px 440px;
+  }
+ 
+
+  .Remember-Me {
+    width: 210px;
+    height: 41px;
+    margin: 40px 0 35px 120px;
+    font-family: outfit;
+    font-size: 25px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .check{
+   width:25px;
+    height:23px;
+    background-image: linear-gradient(to bottom, #ffa300 0%, #ff7e00 100%);
+    background-color: #ffa300;
+  }
+  .Forgot-Password {
+    width: 242px;
+    height: 41px;
+    margin: -80px 193px 35px 550px;
+    font-family: outfit;
+    font-size: 25px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ff0f00;
+  }
+  .Rectangle-4 {
+    width:400px;
+    height:5px;
+    margin: 40px 0 23px 200px;
+    padding: 20px 15px 55px 170px;
+    border-radius: 40px;
+    background-image: linear-gradient(to bottom, #ffa300 0%, #ff7e00 100%);
+  }
+  .Login {
+    width: 46px;
+    height: 21px;
+    font-family: outfit;
+    font-size: 25px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #fff;
+  }
+  .Login:hover{
+    cursor: pointer;
+  }
+  .Dont-have-account {
+    width: 225px;
+    height: 34px;
+    margin: 27px 13px 3px 225px;
+    font-family: outfit;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .Regis {
+    width: 107px;
+    height: 38px;
+    margin: -40px 19px 3px 415px;
+    font-family:outfit;
+    font-size: 22px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ff7e00;
+  
+  }
+  .mg{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: outfit;
+    text-align: center;
+  }
+  .m{
+      margin:0 0 0 570px;
+     
+  }
+  .l{
+      margin-left: 130px;
+  }
+  .n{
+      text-decoration: none;
+      color:#fff;
+  }
+  .icon{
+      margin:80px 0 20px 500px;
+  }
+  .icon1{
+      margin:20px 0 20px 390px;
+      font-weight: 500;
+      font-size: 26px;
+  }

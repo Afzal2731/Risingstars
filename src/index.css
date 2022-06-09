@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Nunito',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#topnav{
+  margin:0px;
+  padding:18px;
+  background-color:purple;
+  width:100%;
+}
+
+.mylink{
+  color:white;
+  margin-left:20px;
+  text-decoration:none;
+}
+
+.mylink:hover{
+  color:orange;
+}
+#b{
+  margin: 20px 0px 23px 250px;
+  padding:12px 150px 12px 120px;
+  border-radius: 40px;
+  background-image: linear-gradient(to bottom, #ffa300 0%, #ff7e00 100%);
+  width:100px;
+  height: 50px;
+  color:#fff;
+}
+#b1{
+  margin: 20px 0px 23px -220px;
+  padding:12px 150px 12px 120px;
+  border-radius: 30px;
+  background-image: linear-gradient(to bottom, #ffa300 0%, #ff7e00 100%);
+  width:420px;
+  height: 50px;
+  color:#fff;
+  text-decoration: none;
+}
+#b2{
+  margin: 20px 0px 23px 100px;
+  padding:12px 150px 12px 120px;
+  border-radius: 30px;
+  background-image: linear-gradient(to bottom, #ffa300 0%, #ff7e00 100%);
+  width:450px;
+  height: 60px;
+  text-decoration: none;
+  color:#fff;
+  
+}
+#i{
+  border-radius: 10px;
+  border: solid 1px rgba(0, 0, 0, 0.5);
+  background-color: #fff;
+ 
+}
+#r{
+  color: orange;
+}
+
+#d{
+  width: 1440px;
+  height: 470px;
+  margin: 0 0 54.5px;
+  padding: 32px 64px 35.5px 70px;
+  background-image: linear-gradient(to right, #ffa300 0%, #ff7e00 100%);
+}
+.mb-3 {
+	position: relative;
+	margin: 18px 10px 10px 130px;
+}
+
+.mb-3 input {
+	display: inline-block;
+	color: #444;
+	width: 700px;
+	height: 50px;
+	border-radius: 5px;
+	border: 1px solid #cdcdcd;
+	background-color: #fff;
+	padding: 10px 20px 10px;
+}
+
+.mb-3 input:focus, .mb-3 input:active {
+	border: 1px solid #ff2c60;
+	background-color:#fff;
+}
+
+.mb-3 label {
+	color: #999;
+	position: absolute;
+	pointer-events: none;
+	left: 10px;
+	top: 11px;
+	transition: 0.2s;
+	font-family: outfit, sans-serif;
+}
+
+.mb-3 input:focus ~ label, input:valid ~ label {
+	top: -7px;
+	left: 15px;
+	font-size: small;
+	color: #ff2c60;
+	background-color:#fff;
+	padding:0 5px 0 5px;
+}
